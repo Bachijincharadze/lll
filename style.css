@@ -1,0 +1,191 @@
+div{
+    margin: 10px;
+    font-size: 20px;
+    height: 80px;
+
+}
+
+#header{
+    background-color: rgb(201, 201, 201)
+}
+
+.shopping-cart{
+    margin-left: 1750px;
+    padding: 20px;
+}
+
+.Cart{
+  text-decoration: none;
+  color: black;
+  margin-left: 1700px;
+}
+
+.search{
+    margin-left: -55px;
+    margin-top: -39px;
+}
+
+.searchit{
+    margin-left: -240px;
+    margin-top: -85px;
+}
+
+
+#main{
+  background-color: #ffffff;
+  height: 1500px;
+  width: 1500px;
+  margin-left: 200px;
+}
+
+.Jerseys{
+    display: flex;
+    gap: 130px;
+    margin-left: 0px;
+    padding-top: 15px;
+}
+
+.Barcelona{
+    border-radius: 10%;
+}
+
+.Real{
+    border-radius: 10%;
+}
+
+.Santos{
+    border-radius: 10%;
+    margin-left: -30px;
+}
+
+.price-1{
+    margin-top: -115px;
+    color: rgb(0, 0, 0);
+    margin-left: 700px;
+    font-size: 25px;
+}
+
+h1{
+    margin-top: -157px;
+    margin-left: 640px;
+}
+
+hr{
+    margin-top: 550px;
+}
+
+button{
+    background-color: #000000;
+    color: white;
+    transition: all 0.5s ease;
+    width: 100px;
+    height: 35px;
+    border-radius: 5%;
+    margin-left: 150px;
+    margin-top: 10px
+}
+
+.button1{
+    margin-left: 120px;
+}
+
+button:hover{
+    background-color: white;
+    color: black;
+    border-radius: 10%;
+    transform: scale(1.0);
+
+}
+
+#leftSidebar{
+    background-color: #7c98b8;
+    float: left;
+    width: 150px;
+    height: 1500px;
+    background-position: center;
+    margin-left: 15px;
+    background-image: url(img/nike.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+#rightSidebar{
+    background-color: #7c98b8;
+    float: right;
+    width: 150px;
+    height: 1500px;
+    background-position: center;
+    margin-right: 15px;
+    background-image: url(img/adidas.jpg);
+}
+
+.boots{
+    display: flex;
+    gap: 110px;
+    margin-left: 10px;
+}
+
+.button-2{
+   margin-left: -350px;
+   width: 100px;
+   height: 35px;
+   margin-top: 500px;
+}
+
+.button-2:hover{
+        background-color: white;
+        color: black;
+        border-radius: 10%;
+        transform: scale(1.0);
+}
+
+.boots-2{
+    margin-left: 150px;
+}
+
+.button-3{
+    margin-left: -350px;
+   width: 100px;
+   height: 35px;
+   margin-top: 500px;
+}
+
+.boots-3:hover{
+    background-color: white;
+    color: black;
+    border-radius: 10%;
+    transform: scale(1.0);
+}
+
+.boots-3{
+    margin-left: 150px;
+}
+.button-4{  margin-left: -350px;
+    width: 100px;
+    height: 35px;
+    margin-top: 500px;
+
+}
+.boots-4:hover{background-color: white;
+    color: black;
+    border-radius: 10%;
+    transform: scale(1.0);
+
+
+}
+.boots-4{
+    margin-left: 150px;
+}
+
+#footer{
+    margin-bottom: -10px;
+    background-color: darkgray ;
+    height: 120px;
+}
+
+.price-2{
+    margin-top: -115px;
+    color: rgb(0, 0, 0);
+    margin-left: 700px;
+    font-size: 25px;
+}
